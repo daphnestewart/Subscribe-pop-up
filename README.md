@@ -1,2 +1,2 @@
 # Subscribe-pop-up
-subscribe pop up box
+html, css and javascript code for a website subscribe pop up box. 
